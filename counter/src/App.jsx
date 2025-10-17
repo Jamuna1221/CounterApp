@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
   return (
     <>
-      <h1>Welcome to Counter App</h1>
+      <h1>Wel;come toi Counter App</h1>
       <div className="card">
         <h2> count is {count} </h2>
         <button onClick={() => setCount((count) => count + 1)}>
